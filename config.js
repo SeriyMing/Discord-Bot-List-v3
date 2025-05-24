@@ -4,7 +4,7 @@
 const port = 3000;
 
 // Enter the domain that you will use for the website.
-const domain = 'https://astrabots.xyz';
+const domain = 'discord-bot-dashboard-next-nu.vercel.app';
 
 // Are you going to localhost the website or host it on a server?
 // Set to "true" if you are localhosting.
